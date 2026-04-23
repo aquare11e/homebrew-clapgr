@@ -1,0 +1,10 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Homebrew
+*.bottle.*
