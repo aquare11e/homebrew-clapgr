@@ -1,8 +1,8 @@
 class Clapgr < Formula
   desc "Upgrade claude-code via Homebrew with release notes and AI-powered summaries"
   homepage "https://github.com/aquare11e/clapgr"
-  url "https://github.com/aquare11e/clapgr/archive/refs/tags/v0.2.2.tar.gz"
-  sha256 "95a90ba081d763b60ab6347753f0ccd6d0dee3dbc6ad3e2f307ad10718d4367c"
+  url "https://github.com/aquare11e/clapgr/archive/refs/tags/v0.2.3.tar.gz"
+  sha256 "4eba6ff7e2eff9cfa6884adc3528424189544e4726b75987adfb84ca4dc3bf6c"
   license "MIT"
 
   depends_on "jq"
